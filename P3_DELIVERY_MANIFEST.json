@@ -1,0 +1,6 @@
+{
+  "repository_kind": "qa-tests",
+  "project_name": "Single-User Browser Task Board",
+  "run_id": "f9fbb20c-e1a7-4d39-ad51-09adf562dfe5",
+  "note": "Dedicated QA mirror containing automated test assets only."
+}

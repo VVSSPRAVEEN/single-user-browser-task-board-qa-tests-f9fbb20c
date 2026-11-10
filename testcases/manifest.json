@@ -12,7 +12,7 @@
       "brd_criteria_text": "Task CRUD",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "e95d25be",
+      "testomat_id": "c7eadba5",
       "executable": false
     },
     {
@@ -25,7 +25,7 @@
       "brd_criteria_text": "Delete with confirmation",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "2883d9f5",
+      "testomat_id": "7283e8e8",
       "executable": false
     },
     {
@@ -38,7 +38,7 @@
       "brd_criteria_text": "Status management",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "5a8af33f",
+      "testomat_id": "3a5de20d",
       "executable": false
     },
     {
@@ -51,7 +51,7 @@
       "brd_criteria_text": "Search and filter",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "b207f823",
+      "testomat_id": "2c00cd67",
       "executable": false
     },
     {
@@ -64,7 +64,7 @@
       "brd_criteria_text": "Demo data reset",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "bd72687d",
+      "testomat_id": "f32655de",
       "executable": false
     },
     {
@@ -77,7 +77,7 @@
       "brd_criteria_text": "Empty state",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "32144404",
+      "testomat_id": "3bf48e98",
       "executable": false
     },
     {
@@ -90,7 +90,7 @@
       "brd_criteria_text": "Data export and import",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "299a4c58",
+      "testomat_id": "f8f348ab",
       "executable": false
     },
     {
@@ -103,7 +103,7 @@
       "brd_criteria_text": "Storage error handling",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "12b2e8e7",
+      "testomat_id": "d6919090",
       "executable": false
     },
     {
@@ -116,7 +116,7 @@
       "brd_criteria_text": "Responsive layout",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "0b823860",
+      "testomat_id": "22109c20",
       "executable": false
     },
     {
@@ -129,7 +129,7 @@
       "brd_criteria_text": "Stable identifiers",
       "priority": "high",
       "status": "manual",
-      "testomat_id": "f2058339",
+      "testomat_id": "395e98a0",
       "executable": false
     }
   ]
